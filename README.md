@@ -10,9 +10,9 @@ We take a random number from the list <code>list1=[0,1,2,3]</code> using <code>r
 <br>
 We create a set of 4-bit numbers based on the random number.
 <br>
-A coresponding<b>QuantumCircuit</b> is created.
+A coresponding <b>QuantumCircuit</b> is created.
 <br>
-Few simple **gates** are applied to get a result.
+Few simple <b>gates</b> are applied to get a result.
 <br>
 The result is simulated using *Aer* simulator and is viewed on a histogram using <code>plot_histogram</code>
 <br>
