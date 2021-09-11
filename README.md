@@ -17,6 +17,7 @@ Few simple *gates* are applied to get a result.
 The result is simulated using *Aer* simulator and is viewed on a histogram using <code>plot_histogram</code>
 <br>
 Here is you what you can expect:-
+<br>
 Random number       4-bit value     Result
 ---
 <br>
