@@ -18,13 +18,32 @@ The result is simulated using *Aer* simulator and is viewed on a histogram using
 <br>
 Here is you what you can expect:-
 <br>
-Random number       4-bit value     Result
+          
 ---
-<br>
-   0                  0011           0100  
-<br>
-   1                  1010           0011               
-<br>
-   2                  0101           0110
-<br>
-   3                  1100           0001
+<table>
+  <tr>
+    <th>Random number</th>
+    <th>4-bit value</th>
+    <th> Result</th>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>0011</td>
+    <td>0100</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>1010</td>
+    <td>0011</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>0101</td>
+    <td>0110</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1100</td>
+    <td>0001</td>
+  </tr>
+</table> 
